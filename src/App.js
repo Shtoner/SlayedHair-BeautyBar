@@ -14,7 +14,7 @@ function App() {
         </div>
         <br></br>
         <div className="text">
-        Our Number: (304) 267-2700
+        Call Us!: (304) 267-2700
         </div>
         <br></br>
         <br></br>
