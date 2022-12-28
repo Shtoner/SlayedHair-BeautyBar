@@ -12,6 +12,19 @@ function App() {
         <div className="text">
         Services include braids, barbering, starter locs & retwists, coils, twists, silk press, rollersets, relaxers, perms, color, hilites, weaves and more.
         </div>
+        <br></br>
+        <div className="text">
+        Our Number: (304) 267-2700
+        </div>
+        <br></br>
+        <br></br>
+        <div className="text">
+        2 Locations: 416 W King ST Martinsburg 25401 & 306 W Washington ST Charles Town 25414 call 4102584914
+        </div>
+        <br></br>
+        <div className="text">
+        Hours: 9AM-6PM
+        </div>
         <a
           className="App-link"
           href="https://www.instagram.com/slayedhairandbeautybar/"
