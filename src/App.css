@@ -8,12 +8,16 @@
   justify-content: center;
   color: white;
 overflow-x: hidden;
+margin: 0px;
+padding-top: 0px;
 }
 .Top{
 width: 100%;
 height: 12em;
 margin: 0;
 padding: 0px;
+animation: fadeIn 3s; 
+
 }
 .exImage{
   margin-top: 2em;
@@ -57,4 +61,54 @@ padding: 0px;
     height: 22em;
   }
 }
+.slider{
+  animation: slideInR 2s; 
+}
+.slidel{
+  animation: slideInL 2s; 
+}
 
+@media (prefers-reduced-motion: no-preference) {
+@keyframes slideInR{
+  0% {
+    transform: translateX(-50px) ;
+  }
+  25%{
+    transform: translateX(0px);
+  }
+  50%{
+    transform: translateX(-8px);
+
+  }
+  69%{
+    transform: translateX(0px);
+
+  }
+  100% {
+    transform: translateX(0px) ;
+  }
+}
+@keyframes slideInL{
+  0% {
+    transform: translateX(50px) ;
+  }
+  25%{
+    transform: translateX(0px);
+  }
+  50%{
+    transform: translateX(8px);
+
+  }
+  69%{
+    transform: translateX(0px);
+
+  }
+  100% {
+    transform: translateX(0px) ;
+  }
+}
+  @keyframes fadeIn{
+  0%{opacity:0.15}
+  100%{opacity:1}
+}
+}
