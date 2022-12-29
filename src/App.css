@@ -14,7 +14,7 @@ width: 100%;
 height: 12em;
 margin: 0px;
 padding: 0px;
-animation: fadeIn 3s; 
+animation: fadeIn 5s; 
 z-index: 0;
 position: fixed;
 top: 0;
@@ -61,6 +61,14 @@ margin-top: 14em;
 @media screen and (min-width:800px){
   .Top{
     height: 22em;
+  }
+  .App-header{
+    margin-top: 16em;
+  }
+}
+@media screen and (min-width:1500px){
+  .Top{
+    height: 28em;
   }
   .App-header{
     margin-top: 16em;
