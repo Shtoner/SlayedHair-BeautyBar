@@ -12,12 +12,12 @@ function App() {
       <header className="App-header">
         <div className="text">
         <p>Services include braids, barbering, starter locs & retwists, coils, twists, silk press, rollersets, relaxers, perms, color, hilites, weaves and more.</p>
-        <p><div className='slidel' style={{color:'rgb(243, 215, 57)'}}>Call Us!:</div> (304) 267-2700</p>
-        <p><div className='slider'style={{color:'rgb(243, 215, 57)'}}>2 Locations:</div><div> 416 W King ST Martinsburg 25401 & 306 W Washington ST Charles Town 25414 call 4102584914</div></p>
+        <p><div className='slidel' >Call Us!:</div> (304) 267-2700</p>
+        <p><div className='slider'>2 Locations:</div><div> 416 W King ST Martinsburg 25401 & 306 W Washington ST Charles Town 25414 call 4102584914</div></p>
         <p>Hours: 9AM-6PM</p>
         </div>
         <a
-          className="App-link"
+          className="slidea"
           href="https://www.instagram.com/slayedhairandbeautybar/"
           target="_blank"
           rel="noopener noreferrer"
