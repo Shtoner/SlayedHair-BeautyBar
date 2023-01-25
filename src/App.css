@@ -93,13 +93,16 @@ margin-top: 14em;
   .Top{
     height: 18em;
   }
+  .App-header{
+    margin-top:15em;
+  }
 }
 @media screen and (min-width:800px){
   .Top{
     height: 22em;
   }
   .App-header{
-    margin-top: 16em;
+    margin-top: 17em;
   }
 }
 @media screen and (min-width:1500px){
