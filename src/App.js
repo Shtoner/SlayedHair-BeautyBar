@@ -87,6 +87,24 @@ function Home(){
           >
           Check out our Instagram!
       </a>
+      <br></br>
+      <a
+          className="slidear"
+          href="https://www.facebook.com/slayedhairandbeautybar"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          Check out our Facebook!
+      </a>
+      <br></br>
+      <a
+          className="slidea"
+          href="https://www.tiktok.com/@laystok?lang=en"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          Check out our TikTok!
+      </a>
         <br></br>
         <img src={Cut1} className='exImage'></img>
         <img src={Cut2} className='exImage'></img>

@@ -126,6 +126,11 @@ margin-top: 14em;
   color:rgb(243, 215, 57);
   display: inline-block;
 }
+.slidear{
+  animation: slideInR 2s; 
+  color:rgb(243, 215, 57);
+  display: inline-block;
+}
 
 @media (prefers-reduced-motion: no-preference) {
 @keyframes slideInR{
