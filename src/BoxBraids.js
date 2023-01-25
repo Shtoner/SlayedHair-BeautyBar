@@ -1,5 +1,6 @@
 import {NavLink,Routes, Route} from 'react-router-dom'
-import SLayed from './Slayed.png';
+import SLayed from './logo.jpeg';
+
 function BoxBraids(){
     return(<>
         <div className='Home'>

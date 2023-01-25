@@ -1,4 +1,4 @@
-import SLayed from './Slayed.png';
+import SLayed from './logo.jpeg';
 import Cut1 from './Cut1.jpg'
 import Cut2 from './Cut2.jpg'
 import Cut3 from './Cut3.jpg'

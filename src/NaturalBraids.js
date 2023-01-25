@@ -1,5 +1,6 @@
 import {NavLink,Routes, Route} from 'react-router-dom'
-import SLayed from './Slayed.png';
+import SLayed from './logo.jpeg';
+
 function NatBraids(){
     return(<>
         <div className='Home'>
