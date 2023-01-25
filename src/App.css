@@ -35,7 +35,6 @@ h1{
   /* position: relative; */
   display: inline-flex;
   /* left: 2em; */
-  color: green;
 }
 
 a{
@@ -44,7 +43,7 @@ a{
 
 
 .vid{
-  width:30%
+  width:30%;
 }
 .Top{
 width: 100%;

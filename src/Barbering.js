@@ -9,7 +9,11 @@ function Barbering(){
 
         </NavLink>
         <header className='App-header'>
-        <div>Pics of our Barbering work!</div>
+        <div>Pics of our Cutting work!</div>
+        <video className='vid'src='hair/cuts2.mp4' controls></video>
+        <video className='vid'src='hair/cuts3.mp4' controls></video>
+        <video className='vid'src='hair/cuts.mp4' controls></video>
+
         </header>
         </div>
         </>

@@ -9,6 +9,10 @@ function BoxBraids(){
         </NavLink>
         <header className='App-header'>
         <div>Pics of our box braids!</div>
+        <video className='vid'src='hair/boxbraids.mp4' controls></video>
+        <video className='vid'src='hair/boxbraids2.mp4' controls></video>
+        <video className='vid'src='hair/boxbraids3.mp4' controls></video>
+
         </header>
         </div>
         </>

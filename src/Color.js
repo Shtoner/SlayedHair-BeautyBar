@@ -10,9 +10,12 @@ function Color(){
         <header className='App-header'>
         <div>Some of our color work!</div>
         <video src='hair/color.mp4' className='vid' controls></video>
+        <video src='hair/color2.mp4' className='vid' controls></video>
+        <video src='hair/color3.mp4' className='vid' controls></video>
         </header>
         </div>
         </>
         )
+        //
 }
 export default Color

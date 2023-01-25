@@ -10,6 +10,8 @@ function FeedInBraids(){
         <header className='App-header'>
         <div>Pics of our feed-in braids!</div>
         <video className='vid'src='hair/feedin.mp4' controls></video>
+        <video className='vid'src='hair/feedin2.mp4' controls></video>
+        <video className='vid'src='hair/feedin3.mp4' controls></video>
         
         </header>
         </div>

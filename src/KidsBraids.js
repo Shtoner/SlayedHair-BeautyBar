@@ -10,6 +10,8 @@ function KidsBraids(){
         <header className='App-header'>
         <div>Some of our kids' braids styles!</div>
         <video className='vid'src='hair/kidsbraids.mp4' controls></video>
+        <video className='vid'src='hair/kids3.mp4' controls></video>
+        <video className='vid'src='hair/kids4.mp4' controls></video>
 
         </header>
         </div>

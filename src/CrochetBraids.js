@@ -10,6 +10,8 @@ function CrochetBraids(){
         <header className='App-header'>
         <div>Pics of our crochet braids!</div>
         <video className='vid'src='hair/crochet.mp4' controls></video>
+        <video className='vid'src='hair/crochet2.mp4' controls></video>
+        <video className='vid'src='hair/crochet3.mp4' controls></video>
         
         </header>
         </div>

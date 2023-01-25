@@ -10,6 +10,8 @@ function Twists(){
         <header className='App-header'>
         <div>Some of our twist styles!</div>
         <video className='vid'src='hair/twists.mp4' controls></video>
+        <video className='vid'src='hair/twists2.mp4' controls></video>
+        <video className='vid'src='hair/twists3.mp4' controls></video>
         
         </header>
         </div>
