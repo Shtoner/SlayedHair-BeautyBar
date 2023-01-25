@@ -76,7 +76,8 @@ function Home(){
       <li className='linav'>Hilites,</li>
       <li className='linav'>Weaves,</li>
           <li className='linav'>and more.</li></p>
-        <p><div className='slider'>2 Locations:</div><div> 416 W King ST <a href='https://goo.gl/maps/qprkW5h49uBy3iRUA'>Martinsburg</a> 25401 & 306 W Washington ST <a href='https://goo.gl/maps/3txL1kVio9r59TFs8'>Charles Town</a> 25414 call 4102584914</div></p>
+        <div className='slider'>2 Locations:</div><div> 416 W King ST <a href='https://goo.gl/maps/qprkW5h49uBy3iRUA'>Martinsburg</a> 25401 <br></br> 306 W Washington ST <a href='https://goo.gl/maps/3txL1kVio9r59TFs8'>Charles Town</a> 25414<br>
+        </br> call 4102584914</div>
         <p>Hours: 9AM-6PM</p>
       </div>
       <a
